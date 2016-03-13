@@ -1,0 +1,77 @@
+<resources>
+    <string name="google_app_id">565799109655</string>
+    <string name="app_name">Catnip</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_basic_congress_view">BasicCongressView</string>
+    <string name="title_activity_congressional_deets">congressionalDeets</string>
+    <string name="learn_more"> Learn More!</string>
+    <string name="senator_1"> Cory Booker </string>
+    <string name="senator_2"> Bob Menendez </string>
+    <string name="senator_3"> JJ </string>
+
+    <string-array name="move_title">
+        <item> Cory Booker </item>
+        <item> Bob Menendez</item>
+        <item> Bonnie Coleman</item>
+    </string-array>
+    <string-array name="move_rating">
+        <item>cory@hotmail.com</item>
+        <item>bobby@ymail.com</item>
+        <item>coleman@gmail.com</item>
+    </string-array>
+
+    <string-array name="websites">
+        <item>corybooker.com</item>
+        <item>bobbymenendez.com</item>
+        <item>bonniecoleman.com</item>
+    </string-array>
+
+    <string-array name="tweets">
+        <item>This vegan sandwich we are holding tasted sooooo good!</item>
+        <item> Lyndsy, thank u for reviewing my book. I love how you started your review: "I didn't want to read this book." SMILE!</item>
+        <item> Thank you so much for reading my book and for writing this review in The Huffington Post.</item>
+    </string-array>
+
+    <string-array name="endterms">
+        <item>Ends term in 2017</item>
+        <item>Ends term in 2020</item>
+        <item>Ends term in 2019</item>
+    </string-array>
+
+    <string-array name="bills">
+        <item>Has sponsored the following bills: \n
+            S. 1903: Reducing Disparities Using Care Models and Education Act of 2015\n
+        S. 2866 (113th): In-Home CARE Act\n
+        S. 2625 (113th): Access to Birth Control Act\n</item>
+        <item>S. 1903: Reducing Disparities Using Care Models and Education Act of 2015\n
+        S. 2866 (113th): In-Home CARE Act\n
+        S. 2625 (113th): Access to Birth Control Act\n</item>
+        <item>S. 2866 (113th): In-Home CARE Act\n
+            S. 1903: Reducing Disparities Using Care Models and Education Act of 2015\n
+        S. 2625 (113th): Access to Birth Control Act\n</item>
+    </string-array>
+
+    <string-array name="committees">
+        <item>Has served on the following committees:\n
+            Aviation Operations, Safety, and Security\n
+        Regulatory Affairs and Federal Management\n
+        Regulatory Affairs and Federal Management</item>
+        <item>Aviation Operations, Safety, and Security\n
+        Regulatory Affairs and Federal Management\n
+        Regulatory Affairs and Federal Management</item>
+        <item>Aviation Operations, Safety, and Security\n
+        Regulatory Affairs and Federal Management\n
+        Regulatory Affairs and Federal Management</item>
+    </string-array>
+    <string-array name="parties">
+        <item>Democrat</item>
+        <item>Republican</item>
+        <item>Democrat</item>
+    </string-array>
+
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_legislators">LegislatorsActivity</string>
+</resources>
